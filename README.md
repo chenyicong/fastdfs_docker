@@ -43,7 +43,7 @@ docker run -itd --name client --net=host -v /etc/fdfs:/etc/fdfs -v /home/client:
 docker exec client fdfs_test /etc/fdfs/client.conf upload /home/client/test.jpg  
 -----------------------------------------------------
 3.4、结果如下:
-group_name=group1, ip_addr=120.77.246.187, port=23000
+group_name=group1, ip_addr=12x.xx.x6.xx7, port=23000
 storage_upload_by_filename
 group_name=group1, remote_filename=M00/00/00/rBI9eloqaKeAOj6yAAQZg0M4szY298.jpg
 source ip address: 172.18.61.122

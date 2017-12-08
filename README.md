@@ -8,7 +8,7 @@ the docker image of fastdfs
 二、镜像配置:
 
 具体的镜像配置文件，参考fdfs文件夹里面的各个文件，其中各个配置文件的归属如下:
-tracker.conf:        tracker的配置文件  
+tracker.conf:        tracker的配置文件
 storage.conf：       storage的配置文件
 mod_fastdfs.conf:    nginx模块fastdfs-nginx-module的配置文件
 nginx_conf文件夹:     里面含tracker  storage两个文件夹，分别用于为tracker、storage 提供http服务的nginx的配置文件
